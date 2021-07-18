@@ -117,7 +117,7 @@ body {
     $result=mysqli_query($conn,$sql);
     if($result){
                echo "<script> alert('Hurray! User created');
-                               window.location.href='money.php';
+                               window.location.href='transfermoney.php';
                      </script>";
                     
     }
