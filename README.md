@@ -7,6 +7,6 @@ Stack used -
 --> Back-end : PHP 
 --> Database : MySQL   
 
-Database contains two Tables- Users Table & Transaction Table 
+Database contains two Tables - Users Table & Transaction Table 
 1. Users Table - User table have basic fields such as name, email & current balance. 
 2. Transaction Table - Transaction table records all the transfers happened along with their time. 
