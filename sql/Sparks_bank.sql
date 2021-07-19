@@ -37,16 +37,16 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
-(1, 'Salman', 'khan@gmail.com', 50000),
-(2, 'Kiara', 'advani@gmail.com', 30000),
-(3, 'Shahrukh', 'shah@gmail.com', 40000),
-(4, 'Priyanka', 'chopra@gmail.com', 50000),
-(5, 'Shahid', 'kapoor@gmail.com', 40000),
-(6, 'Ranbir', 'singh@gmail.com', 30000),
-(7, 'Deepika', 'padukone@gmail.com', 50000),
-(8, 'Juhi', 'chawla@gmail.com', 40000),
-(9, 'Nick', 'jonas@gmail.com', 30000),
-(10, 'Taapsee', 'pannu@gmail.com', 50000);
+(1, 'Madan',  'mdn@gmail.com', 51000),
+(2, 'Kiara', 'advani@gmail.com', 34500),
+(3, 'Sam', 'sam05@gmail.com', 40000),
+(4, 'James', 'jam150@gmail.com', 48000),
+(6, 'Charlie', 'char04@gmail.com', 28000),
+(7, 'Deepika', 'Deepu@gmail.com', 75000),
+(8, 'Misha',  'mishu@gmail.com', 45000),
+(9, 'Nick', 'niky@gmail.com', 34000),
+(10, 'Rahul', 'rahraj@gmail.com', 60000);
+
 
 --
 -- Indexes for dumped tables
